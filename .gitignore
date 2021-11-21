@@ -1,0 +1,6 @@
+npm-debug.log
+node_modules
+.idea/workspace.xml
+.idea
+mochawesome-report/mochawesome.html
+mochawesome-report/mochawesome.json
